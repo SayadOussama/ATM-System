@@ -1,0 +1,5 @@
+﻿  ATM system.cpp
+D:\c++ level 2\ATM system\ATM system\ATM system.cpp(31,26): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\c++ level 2\ATM system\ATM system\ATM system.cpp(259,16): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\c++ level 2\ATM system\ATM system\ATM system.cpp(141,1): warning C4715: 'DepositTransaction': not all control paths return a value
+  ATM system.vcxproj -> D:\c++ level 2\ATM system\x64\Debug\ATM system.exe
